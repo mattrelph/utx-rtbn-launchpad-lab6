@@ -7,3 +7,5 @@ The objectives of Lab 6 are:
 * Develop a set of NPI message packets to support BLE communication
 * Connect the fitness device to a cell phone
 * Understand the concepts of service, characteristic, and advertising
+
+https://youtu.be/Dyv5dGaNCg8
